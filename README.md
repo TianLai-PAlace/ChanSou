@@ -3,6 +3,8 @@ language:[CN](CN)/[EN](EN)
 
 ![IMG_0020](./figures/IMG_0020.jpeg)
 
+![IMG_1401](./figures/IMG_1401.jpeg)
+
 ## icloud url
 
 [禅搜 x(ChanSou x)](https://www.icloud.com/shortcuts/1ad008caa8df4d7c8d289975191336bb)
